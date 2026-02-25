@@ -1,4 +1,4 @@
-# EduTrack
+
 
 Monorepo con un backend en NestJS y un frontend en React + Vite para construir la plataforma.
 
